@@ -8,4 +8,8 @@ addCppClass::addCppClass() {
 
 }
 
+int addCppClass::testFunctionhere() {
+	return 10;
+}
+
 

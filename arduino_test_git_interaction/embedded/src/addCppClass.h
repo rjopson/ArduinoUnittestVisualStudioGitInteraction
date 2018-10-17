@@ -12,6 +12,7 @@ class addCppClass {
 public:
 	addCppClass();
 	mathTest calc;
+	int testFunctionhere();
 
 }; 
 #endif
